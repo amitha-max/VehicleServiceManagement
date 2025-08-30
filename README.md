@@ -1,5 +1,6 @@
 # VehicleServiceManagement
 vehicle service centre management system
+Table of Contents
 - Features
 - OOP Concepts Used
 - UML Diagram
@@ -19,8 +20,6 @@ vehicle service centre management system
 - **Inheritance** – Example: Car, Bike inherit from Vehicle class.
 - **Polymorphism** – Different service types (Repair, Maintenance) use the same method but behave differently.
 - **Abstraction** – Interfaces/abstract classes hide implementation details.
-- ## UML Diagram
-![UML Diagram](uml-diagram.png)
 ## Advantages
 - Easy customer management
 - Quick billing
