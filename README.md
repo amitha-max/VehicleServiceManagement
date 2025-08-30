@@ -23,6 +23,12 @@ TABLE OF CONTENTS
 - **Inheritance** – Example: Car, Bike inherit from Vehicle class.
 - **Polymorphism** – Different service types (Repair, Maintenance) use the same method but behave differently.
 - **Abstraction** – Interfaces/abstract classes hide implementation details.
+- ## UML Diagram
+![UML Diagram](uml-diagram.png)
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo>.git
 ## Advantages
 - Easy customer management
 - Quick billing
