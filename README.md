@@ -1,5 +1,7 @@
 # VehicleServiceManagement
 vehicle service centre management system
+The Vehicle Service Centre Management System is a software application designed to simplify and automate the daily operations of a vehicle service centre. Instead of maintaining paper records, this system helps in managing customers, vehicles, mechanics, services, billing, and service history all in one place.
+
 Table of Contents
 - Features
 - OOP Concepts Used
