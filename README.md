@@ -24,7 +24,8 @@ TABLE OF CONTENTS
 - **Polymorphism** – Different service types (Repair, Maintenance) use the same method but behave differently.
 - **Abstraction** – Interfaces/abstract classes hide implementation details.
 - ## UML Diagram
-![UML Diagram](uml-diagram.png)
+<img width="1024" height="1536" alt="uml-diagram" src="https://github.com/user-attachments/assets/777e8339-e604-47e5-b6d6-ba6fbe555cad" />
+
 ## Installation
 1. Clone the repository:
    ```bash
